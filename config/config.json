@@ -9,11 +9,11 @@
   },
   "NFT_NAME": "trippieheadz",
   "SYMBOL": "TRIPP",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 99000000000000000,
+  "DISPLAY_COST": 0.09,
+  "GAS_LIMIT": 600000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/",
   "SHOW_BACKGROUND": true
 }
